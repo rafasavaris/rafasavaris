@@ -8,8 +8,8 @@
         My name is Rafaela, but you can just call me Rafa :)
       </p>
       <p>
-        I'm a <strong>Computer Engineering student</strong> passionate about low-level programming,
-        AI, and problem-solving.
+        I'm a <strong>Computer Engineering student</strong> and a member of the <strong>Academic League of Artificial Intelligence (LIA-UFSC)</strong>
+        passionate about low-level programming, AI, and problem-solving.
       </p>
       <p>
         Currently, I'm working with <strong>Computer Vision</strong>, and I also enjoy studying
